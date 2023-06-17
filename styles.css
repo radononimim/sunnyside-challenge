@@ -494,6 +494,15 @@ footer {
     filter: brightness(100)
 }
 
+.attribution {
+    font-family: var(--barlow-family);
+    margin-top: var(--spaceing-xxl);
+    color: var(--footer-text-color);
+    letter-spacing: 1px;
+    padding: var(--spaceing-m);
+    text-align: center;
+}
+
 
 /* MEDIA QUERIES  */
 
